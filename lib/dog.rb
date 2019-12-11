@@ -1,6 +1,6 @@
 class Dog
 
-  def initiliaze
+  def initialize
     bark
     sit
   end
